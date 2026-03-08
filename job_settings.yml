@@ -1,0 +1,11 @@
+workspace_id: 1012345
+import_mode: AppendOnly
+max_batch_size: 5000
+large_file_threshold_mb: 200
+required_columns:
+  - control_number
+  - file_path
+  - custodian
+  - extract_text_path
+  - native_type
+  - file_size_mb

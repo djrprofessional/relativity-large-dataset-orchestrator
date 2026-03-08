@@ -1,0 +1,7 @@
+control_number,file_path,custodian,extract_text_path,native_type,file_size_mb
+DOC-0001,/evidence/natives/doc1.msg,Custodian A,/evidence/text/doc1.txt,msg,12
+DOC-0002,/evidence/natives/doc2.xlsx,Custodian A,/evidence/text/doc2.txt,xlsx,38
+DOC-0003,/evidence/natives/doc3.pdf,Custodian B,/evidence/text/doc3.txt,pdf,6
+DOC-0004,/evidence/natives/doc4.zip,Custodian C,/evidence/text/doc4.txt,zip,250
+DOC-0005,/evidence/natives/doc5.pst,Custodian D,/evidence/text/doc5.txt,pst,980
+DOC-0006,/evidence/natives/doc6.docx,Custodian D,/evidence/text/doc6.txt,docx,4
