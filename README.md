@@ -1,8 +1,8 @@
 # Relativity Large Dataset Orchestrator
 
-A starter GitHub project for demonstrating how large document populations can be prepared, chunked, validated, and monitored for import into **Relativity workspaces**.
+A GitHub project for demonstrating how large document populations can be prepared, chunked, validated, and monitored for import into **Relativity workspaces**.
 
-This project is **inspired by the architecture and workflow concepts shown in the `relativitydev/relativity-import-samples` repository**, which documents the Relativity Import Service API, managed import jobs, structured load-file datasets, and job status handling. The Relativity repository explains that the Import Service API supports importing large numbers of documents, images, and Relativity Dynamic Objects into a workspace through managed import jobs built around structured datasets and load files. citeturn1view0
+This project is **inspired by the architecture and workflow concepts shown in the `relativitydev/relativity-import-samples` repository**, which documents the Relativity Import Service API, managed import jobs, structured load-file datasets, and job status handling. The Relativity repository explains that the Import Service API supports importing large numbers of documents, images, and Relativity Dynamic Objects into a workspace through managed import jobs built around structured datasets and load files. 
 
 ## What this project demonstrates
 - ingest manifest validation before import
@@ -12,7 +12,7 @@ This project is **inspired by the architecture and workflow concepts shown in th
 - reporting for eDiscovery and litigation support teams
 
 ## Why it is portfolio-relevant
-The official samples focus on API usage patterns for import jobs and job operations. This project adds an orchestration layer around that concept for **large data set management**, including preflight validation, chunk planning, and operational reporting. The underlying Relativity samples center on managed import jobs and structured data sets described by load files. citeturn1view0
+The official samples focus on API usage patterns for import jobs and job operations. This project adds an orchestration layer around that concept for **large data set management**, including preflight validation, chunk planning, and operational reporting. The underlying Relativity samples center on managed import jobs and structured data sets described by load files. 
 
 ## Tech Stack
 - Python
